@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Minecraft Dragon Lairs
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-05-08T19:25:44-0400
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

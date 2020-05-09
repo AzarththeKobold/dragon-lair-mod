@@ -1,0 +1,5 @@
+Args: "--inJar", "C:\Users\Daniel\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.15.2-31.1.77\forge-1.15.2-31.1.77-injected.jar", "--outJar", "C:\Users\Daniel\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.15.2-31.1.77_mapped_snapshot_20200507-1.15.1\forge-1.15.2-31.1.77_mapped_snapshot_20200507-1.15.1.jar", "--logFile", "accesstransform.log", "--atFile", "C:\Users\Daniel\Desktop\Minecraft Dragon Lairs\build\_atJar_5\parent_at.cfg"
+Classpath: C:\Users\Daniel\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
+WorkDir: C:\Users\Daniel\Desktop\Minecraft Dragon Lairs\build\_atJar_5
+Main: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
